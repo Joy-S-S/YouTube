@@ -1,0 +1,26 @@
+.side-bar {
+    width: 70px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 33px;
+    position: fixed;
+    top: 57px;
+    left: 0px;
+    bottom: 0px;
+    z-index: 100;
+    background-color: white;
+}
+
+.side-icon-div {
+    display: flex;
+    flex-direction: column;
+    width: 24px;
+    align-items: center;
+}
+
+.side-icon-div p {
+    margin-top: 5px;
+    white-space: nowrap;
+}
