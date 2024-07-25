@@ -24,3 +24,14 @@
     margin-top: 5px;
     white-space: nowrap;
 }
+@media (max-width: 600px) {
+    .side-bar {
+        width: 50px;
+    }
+    .side-icon-div{
+        width: 22px;
+    }
+    .side-icon-div p{
+        font-size: 7px;
+    }
+}
