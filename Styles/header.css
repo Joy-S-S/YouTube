@@ -115,3 +115,44 @@
     border-width: 2px;
     border-style: solid;
 }
+@media (max-width: 600px) {
+    .humburger-icon{
+        width: 16px;
+    }
+    .Logo{
+        width: 70px;
+    }
+    .Search-input{
+        height: 26px;
+        width: 90px;
+    }
+    .Search-icon{
+        width: 14px;
+    }
+    .voice-search{
+        width: 14px;
+    }
+    .voice-search-button{
+        width: 25px;
+        height: 25px;
+    }
+    .right-icons{
+        width: 16px;
+    }
+    .pro-pic{
+        width: 20px;
+    }
+    .left-section{
+        width: 90px;
+        margin-left: 10px;
+    }
+    .middle-section{
+        width: 160px;
+        margin-left: 10px;
+    }
+    .right-section{
+        width: 70px;
+        margin-left:10px ;
+        margin-right: 10px;
+    }
+}
